@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 250" font-family="ui-monospace, 'Cascadia Code', 'SF Mono', Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace" text-rendering="geometricPrecision">
+  <title>Maratos WHOOP to Cluade</title>
+  <desc>Banner for Maratos WHOOP to Cluade.</desc>
+  <style>
+    .title { font-size: 42px; font-weight: 800; fill: #1f1f1f; letter-spacing: 0.5px; }
+    .subtitle { font-size: 16px; font-weight: 600; fill: #555; letter-spacing: 0.4px; }
+    .pulse { stroke: #6b6b6b; stroke-width: 1.5; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+    .sep { fill: #b0b0b0; }
+    @media (prefers-color-scheme: dark) {
+      .title { fill: #e6e6e6; }
+      .subtitle { fill: #b0b0b0; }
+      .pulse { stroke: #969696; }
+      .sep { fill: #555; }
+    }
+  </style>
+
+  <text class="title" x="410" y="88" text-anchor="middle" xml:space="preserve">Maratos WHOOP to Cluade</text>
+  <text class="subtitle" x="410" y="122" text-anchor="middle" xml:space="preserve">WHOOP data bridge for Claude workflows</text>
+
+  <path class="pulse" d="
+    M 45 175
+    L 87 175 L 92 172 L 97 175 L 112 175 L 114 178 L 117 150 L 120 183 L 125 170 L 132 175
+    L 232 175 L 237 172 L 242 175 L 257 175 L 259 178 L 262 150 L 265 183 L 270 170 L 277 175
+    L 377 175 L 382 172 L 387 175 L 402 175 L 404 178 L 407 150 L 410 183 L 415 170 L 422 175
+    L 522 175 L 527 172 L 532 175 L 547 175 L 549 178 L 552 150 L 555 183 L 560 170 L 567 175
+    L 667 175 L 672 172 L 677 175 L 692 175 L 694 178 L 697 150 L 700 183 L 705 170 L 712 175
+    L 775 175
+  "/>
+
+  <text class="subtitle" x="410" y="225" text-anchor="middle" xml:space="preserve">Maratos<tspan class="sep">  ·  </tspan>WHOOP<tspan class="sep">  ·  </tspan>Claude</text>
+</svg>
